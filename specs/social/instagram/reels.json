@@ -1,0 +1,8 @@
+{
+  "name": "Reels",
+  "order": 3,
+  "width": 1440,
+  "height": 2560,
+  "safeZones": ["meta-stories-reels"],
+  "source": "https://www.facebook.com/business/ads-guide/update/video/instagram-reels"
+}

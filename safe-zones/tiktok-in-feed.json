@@ -1,0 +1,9 @@
+{
+  "name": "TikTok",
+  "ratio": [9, 16],
+  "frame": [720, 1280],
+  "margins": { "top": 160, "right": 80, "bottom": 440, "left": 80 },
+  "covered": [{ "x": 520, "y": 560, "width": 120, "height": 280 }],
+  "source": "https://ads.tiktok.com/help/article/tiktok-auction-in-feed-ads",
+  "notes": "Measured from TikTok's 2025 In-Feed template without an anchor, which is drawn at 720 × 1280. The covered area is the like, comment and share column. TikTok's Arabic (RTL) template is the exact mirror image."
+}

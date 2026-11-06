@@ -1,0 +1,13 @@
+{
+  "name": "craft-canvas-size-lib",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "build": "node scripts/build.ts",
+    "check": "node scripts/build.ts --check",
+    "test": "node --test scripts/build.test.ts"
+  }
+}

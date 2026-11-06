@@ -1,0 +1,9 @@
+{
+  "name": "YouTube channel banner",
+  "ratio": [16, 9],
+  "frame": [2048, 1152],
+  "margins": { "top": 407, "right": 406.5, "bottom": 407, "left": 406.5 },
+  "covered": [],
+  "source": "https://support.google.com/youtube/answer/10456525",
+  "notes": "YouTube gives a 1235 × 338 safe area, centred, at the minimum upload size of 2048 × 1152: (2048 − 1235) / 2 = 406.5 and (1152 − 338) / 2 = 407."
+}

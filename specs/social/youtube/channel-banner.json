@@ -1,0 +1,8 @@
+{
+  "name": "Channel banner",
+  "order": 2,
+  "width": 2560,
+  "height": 1440,
+  "safeZones": ["youtube-channel-banner"],
+  "source": "https://support.google.com/youtube/answer/10456525"
+}

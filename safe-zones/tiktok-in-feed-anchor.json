@@ -1,0 +1,9 @@
+{
+  "name": "TikTok with product link",
+  "ratio": [9, 16],
+  "frame": [540, 960],
+  "margins": { "top": 126, "right": 60, "bottom": 406, "left": 60 },
+  "covered": [{ "x": 420, "y": 200, "width": 60, "height": 354 }],
+  "source": "https://ads.tiktok.com/help/article/tiktok-auction-in-feed-ads",
+  "notes": "Measured from TikTok's 2021 In-Feed template for ads with an anchor (a product link), which is drawn at 540 × 960, in its version for a one-line caption. Captions of two to four lines need a bottom margin of up to 507. TikTok's Arabic (RTL) template is the exact mirror image."
+}

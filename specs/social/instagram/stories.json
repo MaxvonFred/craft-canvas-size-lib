@@ -1,0 +1,8 @@
+{
+  "name": "Stories",
+  "order": 2,
+  "width": 1440,
+  "height": 2560,
+  "safeZones": ["meta-stories-reels"],
+  "source": "https://www.facebook.com/business/ads-guide/update/image/instagram-story"
+}

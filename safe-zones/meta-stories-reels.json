@@ -1,0 +1,9 @@
+{
+  "name": "Meta Stories & Reels",
+  "ratio": [9, 16],
+  "frame": [100, 100],
+  "margins": { "top": 14, "right": 6, "bottom": 35, "left": 6 },
+  "covered": [],
+  "source": "https://www.facebook.com/business/ads-guide/update/image/instagram-story",
+  "notes": "Meta publishes these margins in percent, the same for Instagram Stories, Instagram Reels and Facebook Stories. Reels ads with a disclaimer need the bottom 40% clear: https://www.facebook.com/business/help/980593475366490"
+}
